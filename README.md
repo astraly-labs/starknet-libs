@@ -27,6 +27,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Web Utils](https://util.turbofish.co/) - Cast between different types on a slick interface
 - [PRNG](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro128 Pseudo Random Number Generator
 - [Bloom Filter](https://github.com/sambarnes/cairo-bloom) - Bloom Filter Implementation
+- [Modular Contracts](https://github.com/fracek/starknet-modular-contracts-standard) - "Diamond Standard" inspired standard for Starknet
 
 ---
 
