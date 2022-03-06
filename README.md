@@ -15,6 +15,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Black Scholes](https://github.com/araghava/cairo-black-scholes) - Black Scholes model implementation
 - [Common Lib](https://perama-v.github.io/cairo/cairo-common-library) - Common Cairo Library
 - [Warp](https://github.com/NethermindEth/warp) - Solidity to Cairo Transpiler
+- [PHP Lib](https://github.com/Starknet-php/starknet.php)
 
 
 ## Experimental Libs
