@@ -30,6 +30,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Bloom Filter](https://github.com/sambarnes/cairo-bloom) - Bloom Filter Implementation
 - [Modular Contracts](https://github.com/fracek/starknet-modular-contracts-standard) - "Diamond Standard" inspired standard for Starknet
 - [PyTest Cairo](https://github.com/TimNooren/pytest-cairo) - Test your contracts in Cairo directly
+- [Merkle Distributor](https://github.com/ncitron/cairo-merkle-distributor) - Make ERC20 airdrops easily
 
 ---
 
