@@ -31,6 +31,8 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Modular Contracts](https://github.com/fracek/starknet-modular-contracts-standard) - "Diamond Standard" inspired standard for Starknet
 - [PyTest Cairo](https://github.com/TimNooren/pytest-cairo) - Test your contracts in Cairo directly
 - [Merkle Distributor](https://github.com/ncitron/cairo-merkle-distributor) - Make ERC20 airdrops easily
+- [Web3-react-starknet](https://github.com/dhruvkelawala/web3-starknet-react) - Web3-react adapter for Starknet
+- [Cairo Utils Web App](https://cairo-utils-web.vercel.app/) - Convert between cairo types easily
 
 ---
 
