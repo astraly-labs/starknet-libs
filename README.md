@@ -33,6 +33,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Merkle Distributor](https://github.com/ncitron/cairo-merkle-distributor) - Make ERC20 airdrops easily
 - [Web3-react-starknet](https://github.com/dhruvkelawala/web3-starknet-react) - Web3-react adapter for Starknet
 - [Cairo Utils Web App](https://cairo-utils-web.vercel.app/) - Convert between cairo types easily
+- [Common Elliptic Curve](https://github.com/EulerSmile/common-ec-cairo) - Common Elliptic Curve Implementation
 
 ---
 
