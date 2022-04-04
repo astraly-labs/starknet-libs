@@ -35,6 +35,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Cairo Utils Web App](https://cairo-utils-web.vercel.app/) - Convert between cairo types easily
 - [Common Elliptic Curve](https://github.com/EulerSmile/common-ec-cairo) - Common Elliptic Curve Implementation
 - [Flashloan](https://github.com/tohrnii/flashloan-starknet) - Flashloan sample implmentation
+- [Testing Framework](https://github.com/TimNooren/pytest-cairo) - Pytest framework for starknet testing
 
 ---
 
