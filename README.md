@@ -36,6 +36,7 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Common Elliptic Curve](https://github.com/EulerSmile/common-ec-cairo) - Common Elliptic Curve Implementation
 - [Flashloan](https://github.com/tohrnii/flashloan-starknet) - Flashloan sample implmentation
 - [Testing Framework](https://github.com/TimNooren/pytest-cairo) - Pytest framework for starknet testing
+- [Starknet On-chain Analysis](https://github.com/d-s-i/mev-inspect-starknet)
 
 ---
 
