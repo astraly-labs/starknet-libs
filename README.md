@@ -1,10 +1,11 @@
 # 🖥️ Starknet Libs
 
-_The ZkPad team will make sure to maintain a curated list of useful libraries to develop on Starknet._
+_The Astraly team will make sure to maintain a curated list of useful libraries to develop on Starknet._
 
 ## Official Libs
+
 - [Starknet Devnet](https://github.com/Shard-Labs/starknet-devnet) - Spin up a local node
-- [Goland Lib](https://github.com/dontpanicdao/caigo) 
+- [Goland Lib](https://github.com/dontpanicdao/caigo)
 - [Cairo Legos](https://github.com/a5f9t4/cairomate) - Well designed standards & DeFi implementations
 - [OZ Standard](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Standards written in Cairo
 - [Hardhat Starknet](https://github.com/Shard-Labs/starknet-hardhat-plugin) - Hardhat plugin for Starknet
@@ -17,8 +18,8 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 - [Warp](https://github.com/NethermindEth/warp) - Solidity to Cairo Transpiler
 - [PHP Lib](https://github.com/Starknet-php/starknet.php)
 
-
 ## Experimental Libs
+
 - [Set of libraries](https://github.com/sekai-studio/starknet-libs) - Long Strings Manipulation
 - [Bitwise Integer](https://github.com/bellissimogiorno/cairo-integer-types) - uint64, uint32, int32, uint8
 - [Fixed Point Math](https://github.com/influenceth/cairo-math-64x61) - 64 bytes float w/ 4.34e-19 precision
@@ -41,7 +42,9 @@ _The ZkPad team will make sure to maintain a curated list of useful libraries to
 ---
 
 ### 👨‍💼 Contribute
+
 If you want to contribute to this list, please make a pull request stating clearly the following:
+
 - Name
 - URL
 - What is it for ?
@@ -50,5 +53,5 @@ If you want to contribute to this list, please make a pull request stating clear
 - Is it official/audited ?
 
 ---
-_ZkPad Team. This is public domain._ 
 
+_Astraly Team. This is public domain._
